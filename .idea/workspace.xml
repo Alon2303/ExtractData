@@ -64,7 +64,7 @@
       <workItem from="1597218080823" duration="2769000" />
       <workItem from="1597220866660" duration="6360000" />
       <workItem from="1597229427758" duration="1418000" />
-      <workItem from="1597238322990" duration="17410000" />
+      <workItem from="1597238322990" duration="17661000" />
     </task>
     <task id="LOCAL‎00001" summary="excluded .idea/*">
       <created>1597313677164</created>
@@ -72,7 +72,13 @@
       <option name="presentableId" value="LOCAL‎00001" />
       <updated>1597313677164</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL‎00002" summary="excluded .idea/*">
+      <created>1597314271708</created>
+      <option name="number" value="LOCAL‎00002" />
+      <option name="presentableId" value="LOCAL‎00002" />
+      <updated>1597314271708</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,10 +104,10 @@
     </state>
     <state x="179" y="89" width="786" height="591" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1597311297290" />
     <state x="715" y="224" key="#xdebugger.evaluate/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597224350232" />
-    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1597313742628">
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1597314488856">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1597313742628" />
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1597314488856" />
     <state width="614" height="466" key="DebuggerActiveHint" timestamp="1597311276538">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

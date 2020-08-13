@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9ac75abb-2d56-46c0-9db9-fe14c208b6c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9ac75abb-2d56-46c0-9db9-fe14c208b6c7" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,12 +62,23 @@
       <workItem from="1597218080823" duration="2769000" />
       <workItem from="1597220866660" duration="6360000" />
       <workItem from="1597229427758" duration="1418000" />
-      <workItem from="1597238322990" duration="16556000" />
+      <workItem from="1597238322990" duration="16888000" />
     </task>
+    <task id="LOCAL‎00001" summary="excluded .idea/*">
+      <created>1597313677164</created>
+      <option name="number" value="LOCAL‎00001" />
+      <option name="presentableId" value="LOCAL‎00001" />
+      <updated>1597313677164</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="excluded .idea/*" />
+    <option name="LAST_COMMIT_MESSAGE" value="excluded .idea/*" />
   </component>
   <component name="WindowStateProjectService">
     <state x="191" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597261905967">
@@ -89,10 +96,10 @@
     </state>
     <state x="179" y="89" width="786" height="591" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1597311297290" />
     <state x="715" y="224" key="#xdebugger.evaluate/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597224350232" />
-    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1597313426240">
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1597313675527">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1597313426240" />
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1597313675527" />
     <state width="614" height="466" key="DebuggerActiveHint" timestamp="1597311276538">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -181,9 +188,13 @@
     </state>
     <state width="1259" height="113" key="GridCell.Tab.3.right/0.0.1280.680@0.0.1280.680" timestamp="1597312016797" />
     <state width="1899" height="338" key="GridCell.Tab.3.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597229347858" />
-    <state x="359" y="133" key="git4idea.merge.GitPullDialog" timestamp="1597313327628">
+    <state x="233" y="75" key="Vcs.Push.Dialog.v2" timestamp="1597313736313">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="359" y="133" key="git4idea.merge.GitPullDialog/0.0.1280.680@0.0.1280.680" timestamp="1597313327628" />
+    <state x="233" y="75" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1597313736313" />
+    <state x="359" y="133" key="git4idea.merge.GitPullDialog" timestamp="1597313691668">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="359" y="133" key="git4idea.merge.GitPullDialog/0.0.1280.680@0.0.1280.680" timestamp="1597313691668" />
   </component>
 </project>
